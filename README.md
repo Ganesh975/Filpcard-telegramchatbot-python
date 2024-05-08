@@ -22,9 +22,4 @@ To interact with the Flipkart Deals Chatbot, simply start a conversation with th
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the bot: `python flipkart_deals_bot.py`
 
-## Contributors
-- [Your Name](link_to_your_profile) - Lead Developer
-- [Contributor Name](link_to_contributor_profile) - Contributor
 
-## License
-This project is licensed under the [MIT License](LICENSE).
